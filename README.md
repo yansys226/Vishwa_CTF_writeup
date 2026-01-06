@@ -1,6 +1,6 @@
 # Description
 
-This the writeup on the challenges we solved during the 2022 Vishwactf <https://play.vishwactf.com/>.
+This the writeup on the challenges we solved during the Vishwactf <https://vishwactf.com/>.
 
 # Content
 
@@ -14,35 +14,22 @@ The writeups have been divided by challenges and each one has been produced both
 
 ## Instant:
 
-Markdown: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/instant_flags.md>  
-PDF: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/instant_flags.pdf>
 
 ## Forensics:
 
-Markdown: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Forensics/forensics_writeup.md>  
-PDF: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Forensics/forensics_writeup.pdf>
+
 
 ## Misc:
 
-Markdown: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Misc/misc_writeup.md>  
-PDF: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Misc/misc_writeup.pdf>
 
 ## OSINT:
 
-Markdown: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/OSINT/osint_writeup.md>  
-PDF: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/OSINT/osint_writeup.pdf>
 
 ## Crypto:
 
-Markdown: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Crypto/crypto_writeup.md>  
-PDF: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Crypto/crypto_writeup.pdf>
 
 ## Reverse Engineering:
 
-Markdown: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/ReverseEngineering/reverse_engineering_writeup.md>  
-PDF: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/ReverseEngineering/reverse_engineering_writeup.pdf>
 
 ## Web:
 
-Markdown: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Web/web_writeup.md>  
-PDF: <https://github.com/loolloo/Vishwactf_2022_Writeup/blob/main/Web/web_writeup.pdf>
